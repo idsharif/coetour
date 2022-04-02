@@ -8,5 +8,5 @@ This website features the virtual tour of the six departments of College of Educ
 
 ## Acknowledgments
 
-Pi-Sui Hsu, Ph.D. - Project Manager
-Sena Bulak - Narrator
+* Pi-Sui Hsu, Ph.D. - Project Manager
+* Sena Bulak - Narrator
